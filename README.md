@@ -6,39 +6,41 @@ The Discord Clone Project is an immersive full-stack web application designed fo
 
 ## 🌐 Key Features:
 
-
-**Real-time Messaging:** Utilize Socket.io for seamless real-time communication.</br>
-**Attachments:** Send various types of attachments as messages using UploadThing.</br>
-**Edit & Delete:** Empower users with the ability to edit and delete messages in real-time.</br>
-**Audio and Video Channels:** Create both text and multimedia call channels for versatile communication.</br>
-**1:**1 Conversations:** Facilitate private conversations between members.</br>
-**Video Calls:** Enable 1:**1 video calls for immersive communication.</br>
-**Member Management:** Administer member roles, including kicking and changing roles (Guest / Moderator).</br>
-**Invite System:** Implement a unique link generation system with a fully functional invite system.</br>
-**Infinite Loading:** Optimize user experience with batched loading of messages in sets of 10, utilizing tanstack/query.</br>
-**Server Customization:** Allow users to create and customize servers to suit their preferences.</br>
-**UI Aesthetics:** Present a visually appealing interface using TailwindCSS and ShadcnUi.</br>
-**Responsiveness:** Ensure a seamless experience with full responsiveness and mobile-friendly UI.</br>
-**Light/Dark Mode:** Cater to user preferences with a stylish light and dark mode.</br>
-**Websocket Fallback:** Implement a robust websocket fallback using polling with alerts for uninterrupted communication.</br>
-**ORM and Database:** Leverage Prisma as the Object-Relational Mapping tool for efficient database operations.</br>
-**MySQL Database:** Store data securely using Railway MySQL database.</br>
-**Authentication:** Implement secure authentication with Clerk for a seamless user experience.</br>
+- Real-time messaging using Socket.io
+- Send attachments as messages using UploadThing
+- Delete & Edit messages in real time for all users
+- Create Text, Audio and Video call Channels
+- 1:1 conversation between members
+- 1:1 video calls between members
+- Member management (Kick, Role change Guest / Moderator)
+- Unique invite link generation & full working invite system
+- Infinite loading for messages in batches of 10 (tanstack/query)
+- Server creation and customization
+- Beautiful UI using TailwindCSS and ShadcnUI
+- Fully responsivity and mobile UI
+- Light / Dark mode
+- Websocket fallback: Polling with alerts
+- ORM using Prisma
+- MySQL database using Railway
+- Authentication with Clerk
 
 ## Working Videos
 
 ### Server 
 
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/46ef7ce4-87a6-4c6f-8155-9f8fa48e5ef2
 
 ### Live chat in channel
 
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/a9bb3f43-597d-48db-9212-aedff3368dce
 
 ### Direct chat with user and video call
 
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/3e77f3c2-c63e-4556-bb13-1cb6b2f904be
 
-### search users and channels
+### search users, channels and infinite loading
 
-
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/65a64c3e-83cc-444f-8410-573fe1d08667
 
 ## Deployed on Railway.app
 
