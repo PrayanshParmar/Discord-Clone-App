@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#  Fullstack Discord Clone 🚀 
 
-## Getting Started
+## Description:
 
-First, run the development server:
+The Discord Clone Project is an immersive full-stack web application designed for real-time communication and collaboration within online communities. Developed using cutting-edge technologies such as Next.js 14, React, Socket.io, Prisma, TailwindCSS, and MySQL, this clone provides a dynamic and responsive platform for users to engage seamlessly. From instant messaging with Socket.io to multimedia channels and 1:1 video calls, the Discord Clone delivers a comprehensive communication experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌐 Key Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Real-time Messaging: Utilize Socket.io for seamless real-time communication.</br>
+Attachments: Send various types of attachments as messages using UploadThing.</br>
+Edit & Delete: Empower users with the ability to edit and delete messages in real-time.</br>
+Audio and Video Channels: Create both text and multimedia call channels for versatile communication.</br>
+1:1 Conversations: Facilitate private conversations between members.</br>
+Video Calls: Enable 1:1 video calls for immersive communication.</br>
+Member Management: Administer member roles, including kicking and changing roles (Guest / Moderator).</br>
+Invite System: Implement a unique link generation system with a fully functional invite system.</br>
+Infinite Loading: Optimize user experience with batched loading of messages in sets of 10, utilizing tanstack/query.</br>
+Server Customization: Allow users to create and customize servers to suit their preferences.</br>
+UI Aesthetics: Present a visually appealing interface using TailwindCSS and ShadcnUi.</br>
+Responsiveness: Ensure a seamless experience with full responsiveness and mobile-friendly UI.</br>
+Light/Dark Mode: Cater to user preferences with a stylish light and dark mode.</br>
+Websocket Fallback: Implement a robust websocket fallback using polling with alerts for uninterrupted communication.</br>
+ORM and Database: Leverage Prisma as the Object-Relational Mapping tool for efficient database operations.</br>
+MySQL Database: Store data securely using Railway MySQL database.</br>
+Authentication: Implement secure authentication with Clerk for a seamless user experience.</br>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Working Video
+<video src="/readme-src/discord-clone-video.mp4" controls title="Discord-Clone"/>
 
-## Learn More
+## Deployed on Railway.app
+<a target="_blank" href="https://discord-clone-app-production-59e9.up.railway.app/" />
 
-To learn more about Next.js, take a look at the following resources:
+## Stay Connected:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Follow me on LinkedIn <a href="https://www.linkedin.com/in/prayansh-parmar/" target="_blank">Prayansh Parmar</a> for updates and announcements.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy Chating! 📝✨

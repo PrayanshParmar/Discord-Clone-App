@@ -32,7 +32,7 @@ export const ServerHeader = ({ server, role }: ServerHeaderprops) => {
           border-b-2 hover:bg-zinc-700/10 dark:hover:bg-zinc-700/50 transition "
         >
           {server.name}
-          <ChevronDown className="h-5 w-5 ml-auto" />
+          <ChevronDown className="h-5 w-5 ml-12" />
         </button>
       </DropdownMenuTrigger>
       <DropdownMenuContent
@@ -57,7 +57,7 @@ export const ServerHeader = ({ server, role }: ServerHeaderprops) => {
              px-3 py-2 text-sm cursor-pointer hover:bg-[#3C45A5] hover:text-white dark:hover:bg-[#3C45A5] dark:hover:text-white  "
           >
             Server Settings
-            <Settings className="h-4 w-4 ml-auto" />
+            <Settings className="h-4 w-4 ml-auto hover:animate-spin transition" />
           </DropdownMenuItem>
         )}
         {isAdmin && (
