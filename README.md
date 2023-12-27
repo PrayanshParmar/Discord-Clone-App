@@ -29,16 +29,19 @@ The Discord Clone Project is an immersive full-stack web application designed fo
 
 ### Server 
 
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/46ef7ce4-87a6-4c6f-8155-9f8fa48e5ef2
 
 ### Live chat in channel
 
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/a9bb3f43-597d-48db-9212-aedff3368dce
 
 ### Direct chat with user and video call
 
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/3e77f3c2-c63e-4556-bb13-1cb6b2f904be
 
-### search users and channels
+### search users, channels and infinite loading
 
-
+https://github.com/PrayanshParmar/Discord-Clone-App/assets/103236128/65a64c3e-83cc-444f-8410-573fe1d08667
 
 ## Deployed on Railway.app
 
