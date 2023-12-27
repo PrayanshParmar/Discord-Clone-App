@@ -27,7 +27,7 @@ MySQL Database: Store data securely using Railway MySQL database.</br>
 Authentication: Implement secure authentication with Clerk for a seamless user experience.</br>
 
 ## Working Video
-<video src="/readme-src/discord-clone-video.mp4" controls title="Discord-Clone"/>
+
 
 ## Deployed on Railway.app
 <a target="_blank" href="https://discord-clone-app-production-59e9.up.railway.app/" />
