@@ -30,7 +30,8 @@ Authentication: Implement secure authentication with Clerk for a seamless user e
 
 
 ## Deployed on Railway.app
-<a target="_blank" href="https://discord-clone-app-production-59e9.up.railway.app/" />
+
+[Dicord Clone](https://discord-clone-app-production-59e9.up.railway.app/)
 
 ## Stay Connected:
 
