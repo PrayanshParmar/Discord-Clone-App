@@ -33,8 +33,10 @@ The Discord Clone Project is an immersive full-stack web application designed fo
 ### Live chat in channel
 
 
-### Video and Audio Channel
+### Direct chat with user and video call
 
+
+### search users and channels
 
 
 
