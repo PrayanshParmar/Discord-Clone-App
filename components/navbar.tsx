@@ -8,7 +8,6 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { redirect } from "next/navigation";
 
 
 const Navbar = () => {

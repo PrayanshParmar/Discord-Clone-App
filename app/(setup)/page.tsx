@@ -2,7 +2,7 @@ import InitialModal from "@/components/modals/initial-modal";
 import Navbar from "@/components/navbar";
 import { db } from "@/lib/db";
 import { initialProfile } from "@/lib/initial-profile";
-import { Download, Linkedin } from "lucide-react";
+import { Download } from "lucide-react";
 import { redirect } from "next/navigation";
 const SetupPage = async () => {
   const profile = await initialProfile();
