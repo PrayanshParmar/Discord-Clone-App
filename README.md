@@ -1,4 +1,6 @@
-#  Fullstack Discord Clone 🚀 
+# Fullstack Discord Clone 🚀 
+
+![Alt text](image.png)
 
 ## Description:
 
